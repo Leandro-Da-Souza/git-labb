@@ -1,4 +1,7 @@
-cat
-behemoth
-the cheshire cat
-findus
+cat.
+behemoth.
+the cheshire cat.
+en katt.
+två katt.
+tre katt.
+fyra katt.
